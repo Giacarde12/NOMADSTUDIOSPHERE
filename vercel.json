@@ -1,0 +1,11 @@
+{
+  "buildCommand": "npm ci && npm run build",
+  "outputDirectory": "dist",
+  "devCommand": "npm run dev",
+  "framework": "vite",
+  "installCommand": "npm install",
+  "env": {},
+  "projectSettings": {
+    "allowModifyingSourceCodeDuringDeploy": true
+  }
+}
